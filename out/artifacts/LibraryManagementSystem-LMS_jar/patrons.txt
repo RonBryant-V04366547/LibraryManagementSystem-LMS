@@ -1,0 +1,10 @@
+1245789-Sarah Jones-1136 Gorden Ave. Orlando, FL 32822-40.54
+3256897-Mason Arby-6060 Saginaw St. Casselberry, FL 34852-0
+4567891-Avery Jones-1919 Pine Lance Blvd. Oviedo, FL 32478-1.36
+9423584-John Jacobs-283 Penderbrook Ln. Jacksonville, FL 32257-10.59
+4852156-Bobby Bands-2298 Orange Tree St. Jacksonville, FL 32254-5.37
+4125962-Ron Bryant-5020 Cleveland St. Apt. 7 Jacksonville, FL 32209-7.65
+1478249|Invalid OnPurpose1|123 Any St. Any City, FL 12345|3.32
+14782-Invalid OnPurpose2-123 Any St. Any City, FL 12345-3.32
+1478249-Invalid OnPurpose3-123 Any St. Any City, FL 12345-332.32
+1478249-Invalid OnPurpose4-123 Any St. Any City, FL 12345-$3.32
