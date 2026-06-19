@@ -23,7 +23,7 @@ The `Main` class represents the driver class housing the `main()`, displaying th
 
 ## How to compile and run the program
 Because the three files use the same package name: `package com.librarymanagementsystem`, ensure all are stored in the same folder. While this project was built in IntelliJ IDEA, you could use any IDE to compile and run it, provided you have taken the necessary steps needed for setting up, compiling, and running Java projects in whatever IDE you choose. You could also just use the CLI by changing into the directory you store the project, then entering the bash commands for compiling and running:
-`javac ...` (replace the ellipses with the directory path to your project) 
-`java ...`  (again replace the ellipses with the directory path to your project)
+`javac ...` (replace the ellipses with the directory path to your project).
+`java ...`  (again replace the ellipses with the directory path to your project).
 To run the `JAR` file, change into the directory with the JAR file then enter the following command:
 `java -jar ...` (again replace the ellipses with the directory path to your project).
